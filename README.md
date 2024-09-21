@@ -7,7 +7,7 @@ Currently learning VueJS & Angular ✨
 
 A few projects I worked on:
 
-- [Portfolio](https://mhss-dev.github.io/portfolio-vue/)
+- [Portfolio](https://mhss-dev.github.io/portfolio/)
 - [Binge](https://binge-mhss.netlify.app)
 - [Chez Gusteau](https://github.com/mhss-dev/Chez_Gusteau)
 - [Paris 2024](https://mhss-paris2024.netlify.app/)
