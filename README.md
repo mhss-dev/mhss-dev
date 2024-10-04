@@ -9,6 +9,7 @@ A few projects I worked on:
 
 - [Binge](https://binge-mhss.netlify.app)
 - [Portfolio](https://mhss-dev.github.io/portfolio/)
+- [Country](https://github.com/mhss-dev/Country)
 - [Paris 2024](https://mhss-paris2024.netlify.app/)
 - [Chez Gusteau](https://github.com/mhss-dev/Chez_Gusteau)
 
