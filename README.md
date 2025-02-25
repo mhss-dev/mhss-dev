@@ -9,7 +9,7 @@ Currently learning Vue & Angular 🌱
 
 A few projects I worked on:
 
-- [Binge](https://binge-mhss.netlify.app)
+- [Binge](https://binge-now.netlify.app)
 - [Portfolio](https://mhss-dev.github.io/portfolio/)
 - [Country](https://github.com/mhss-dev/Country)
 - [Chez Gusteau](https://github.com/mhss-dev/Chez_Gusteau)
